@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <VersionPrefix>1.0.0.0</VersionPrefix>
+    <Product>excite-translator-dotnet</Product>
+    <Authors>Shuma Yoshioka</Authors>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/S64/excite-translator-dotnet</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+</Project>
